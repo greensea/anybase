@@ -1,0 +1,9 @@
+{
+	"name": "greensea/anybase",
+	"description": "任意进制转换工具，用于处理各个数位进制不同的数字",
+	"type": "project",
+	"license": "WTFPL",
+	"minimum-stability": "dev",
+	"require": {}
+}
+
