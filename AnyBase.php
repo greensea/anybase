@@ -69,10 +69,3 @@ class AnyBase {
     }
 }
 
-
-$cardinals = [3, 2, 4];
-$ids = [1, 1, 3];
-
-$foo = A::convert($ids, $cardinals);
-$foo = A::extract(6, $cardinals);
-print_r($foo);
