@@ -4,6 +4,9 @@
 	"type": "project",
 	"license": "WTFPL",
 	"minimum-stability": "dev",
-	"require": {}
+	"require": {},
+	"autoload": {
+		"classmap": ["./"]
+	}
 }
 
